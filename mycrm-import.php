@@ -3,8 +3,8 @@
 Plugin Name: MyCRM Importer
 Description: MyCRM Importer
 Version: 1.0.0
-Author: Indeed Software
-Author URI: http://indeedsoft.com/
+Author: Gelani Ozdoyev
+Author URI: http://ozdoyev.com/
 */
 
 $IDS_Amenities = array(
